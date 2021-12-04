@@ -1,6 +1,6 @@
 # Bitacora detallada instalacion gcp-terraform-Foundation-example-2.3 con  Terraform por Equipo GCP-Keralty-Itaka
 
-**Autores :**             📅 **Fecha de Creacion : 4-11-2021**
+**Autores :**             📅 **Fecha de Creacion : 4-12-2021**
 
  🧑🏻‍💻  **Fabian Vera        -  Cloud Engineer Sr  at Globant**   🇨🇴 ****
 
