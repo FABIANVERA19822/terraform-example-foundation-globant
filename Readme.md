@@ -1,4 +1,4 @@
-# Bitacora detallada instalacion gcp-terraform-Foundation-example-2.3 con  Terraform
+# Bitacora detallada instalacion gcp-terraform-Foundation-example-2.3 con  Terraform por Equipo GCP-Keralty-Itaka
 
 **Autores :**             📅 **Fecha de Creacion : 4-11-2021**
 
