@@ -631,7 +631,7 @@ Revisa el resultado del plan en tu proyecto de Cloud Build [https://console.clou
 22.🛡️ **EJECUCION**
 Ahora puede pasar a las instrucciones del paso 4-proyectos.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # TROUBLESHOOTING PARA HACER ANDAR LOS ROUTERS
 
@@ -686,7 +686,7 @@ filter = "[parent.id](http://parent.id/):${split("/", data.google_active_folder.
 
 (gcp-networks/modules/base_shared_vpc ) archivo [output.tf](http://output.tf/)  (HIJO)
 
-#######################################################################
+#####################################################################################################
 
 # Outputs for debuging routers not created
 
