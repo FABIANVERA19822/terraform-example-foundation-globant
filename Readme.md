@@ -34,7 +34,7 @@
 - [x]  Su organizacion debera solicitar al equipo de Soporte el Aumento de su Quota de Projectos
 - [x]  Para la Automatizacion de IaaC  y de Aplicaciones usaremos Terraform y Google Cloud Build como herrameinta de CI/CD  por lo tanto la API debera estar Habilitada.
 - [x]  Asegurese de estar tener configurado debidamente su contexto de configuracion con el proyecto privote, la region, zona y usuario que ejecutara los scripts de Terraform e interactura con Google Cloud platform, use el comando: gcloud auth login
-- [x]  Su Organizacion debera garantizar los siguientes Grupos  con sus respectivos permisos
+- [x]  Su Organizacion debera garantizar los siguientes Grupos  con sus respectivos permisos :
 
 Aqui un ejemplo de asignacion de persmisos para usarlos via Google Cloud Shell y/o Bash Terminal Local de su IDE de desarollo preferido
 
